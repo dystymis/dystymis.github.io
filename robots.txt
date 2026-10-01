@@ -1,2 +1,9 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://dystymis.github.io/sitemap.xml
+Sitemap: https://dystymis.github.io/soveti-doma/sitemap.xml
+Sitemap: https://dystymis.github.io/zdorovie-legko/sitemap.xml
+Sitemap: https://dystymis.github.io/avto-podskazki/sitemap.xml
+Sitemap: https://dystymis.github.io/dacha-sad-ogorod/sitemap.xml
+Sitemap: https://dystymis.github.io/intim-land/sitemap.xml

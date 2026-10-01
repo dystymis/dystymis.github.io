@@ -1,0 +1,15 @@
+# dystymis — проекты
+
+> Сетка русскоязычных информационных сайтов: дом, здоровье, авто, дача и 18+.
+
+## Сайты
+
+- [Советы дома](https://dystymis.github.io/soveti-doma/): уборка, хранение, ремонт мелочей
+- [Здоровье легко](https://dystymis.github.io/zdorovie-legko/): привычки, сон, активность
+- [Авто подсказки](https://dystymis.github.io/avto-podskazki/): уход и подготовка авто
+- [Дача, сад и огород](https://dystymis.github.io/dacha-sad-ogorod/): посадки и урожай
+- [Интим Лайн](https://dystymis.github.io/intim-land/): 18+ материал для взрослых
+
+## О проекте
+
+- [Главная](https://dystymis.github.io/): обзор всех проектов
