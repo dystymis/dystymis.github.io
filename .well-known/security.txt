@@ -1,0 +1,5 @@
+Contact: mailto:dystymi@vk.com
+Expires: 2027-04-04T00:00:00.000Z
+Preferred-Languages: ru, en
+Canonical: https://dystymis.github.io/.well-known/security.txt
+Policy: https://dystymis.github.io/soveti-doma/about/

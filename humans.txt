@@ -1,0 +1,13 @@
+/* TEAM */
+Publisher: dystymis
+Publisher URL: https://dystymis.github.io/
+Location: RU
+Contact: dystymi@vk.com
+Website: https://dystymis.github.io/
+
+/* SITE */
+Last update: 2026-10-04
+Language: ru
+Doctype: HTML5
+Platform: github-pages
+Generator: custom Node.js static site generator
